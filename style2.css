@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(to right, #E0FFFF, #DCDCDC, #E0FFFF)
+}
+
+th, td{
+    text-align:center;
+    font-family: comic sans ms;
+
+}
+h1{
+    text-align:center;
+}
